@@ -1,8 +1,8 @@
-# QuizApp 🤔
+# QuizApp 🧙🏻‍♀️
 
-<img align="center" src="/img/hoverboard.gif" width="450" />
+<img align="center" src="/img/quiz.gif" width="450" />
 
-Check it out **[here](https://anacury.github.io/QuizApp/)**
+Harry Potter Trivia Quiz, try it **[here](https://anacury.github.io/QuizApp/)**
 
 ## Built with:
 
